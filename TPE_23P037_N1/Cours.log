@@ -1,0 +1,2297 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.22)  22 MAR 2026 13:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Cours.tex
+(Cours.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@chapter=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(Style_cours.sty
+Package: Style_cours 2026/03/01 Feuille de style de mes cours
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
+TeX and XeLaTeX
+\babel@savecnt=\count284
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2068.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2070.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2072.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2073.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2074.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2076.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2101.
+\U@D=\dimen149
+\l@unhyphenated=\language79
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count285
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4196.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel
+-french.tex)
+Package babel Info: Importing data for french
+(babel)             from babel-fr.ini. Reported on input line 4320.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel
+-french.tex))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count286
+)
+\MT@toks=\toks20
+\MT@tempbox=\box53
+\MT@count=\count287
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
+LaTeX Info: Redefining \leftprotrusion on input line 1085.
+\MT@prot@toks=\toks21
+LaTeX Info: Redefining \rightprotrusion on input line 1104.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen150
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count288
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
+File: microtype-pdftex.def 2026/03/01 v3.2d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip51
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count289
+\Gm@cntv=\count290
+\c@Gm@tempcnt=\count291
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks22
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+) (C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen159
+\ar@mcellbox=\box54
+\extrarowheight=\dimen160
+\NC@list=\toks23
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box55
+)
+\everycr=\toks24
+\minrowclearance=\skip54
+\rownum=\count292
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+) (C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count293
+\float@exts=\toks25
+\float@box=\box56
+\@float@everytoks=\toks26
+\@floatcapt=\box57
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen163
+\WF@size=\dimen164
+\c@WF@wrappedlines=\count294
+\WF@box=\box58
+\WF@everypar=\toks27
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen165
+\pgfutil@tempdimb=\dimen166
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box59
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen167
+\pgf@y=\dimen168
+\pgf@xa=\dimen169
+\pgf@ya=\dimen170
+\pgf@xb=\dimen171
+\pgf@yb=\dimen172
+\pgf@xc=\dimen173
+\pgf@yc=\dimen174
+\pgf@xd=\dimen175
+\pgf@yd=\dimen176
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count295
+\c@pgf@countb=\count296
+\c@pgf@countc=\count297
+\c@pgf@countd=\count298
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count299
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count300
+\pgfsyssoftpath@bigbuffer@items=\count301
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen177
+\pgfmath@count=\count302
+\pgfmath@box=\box60
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count303
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen178
+\pgf@picmaxx=\dimen179
+\pgf@picminy=\dimen180
+\pgf@picmaxy=\dimen181
+\pgf@pathminx=\dimen182
+\pgf@pathmaxx=\dimen183
+\pgf@pathminy=\dimen184
+\pgf@pathmaxy=\dimen185
+\pgf@xx=\dimen186
+\pgf@xy=\dimen187
+\pgf@yx=\dimen188
+\pgf@yy=\dimen189
+\pgf@zx=\dimen190
+\pgf@zy=\dimen191
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen192
+\pgf@path@lasty=\dimen193
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen194
+\pgf@shorten@start@additional=\dimen195
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count304
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen196
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen197
+\pgf@pt@y=\dimen198
+\pgf@pt@temp=\dimen199
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen256
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen257
+\pgf@sys@shading@range@num=\count305
+\pgf@shadingcount=\count306
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box64
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box65
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen258
+\pgf@nodesepend=\dimen259
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen260
+\pgffor@skip=\dimen261
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count307
+\pgfplotmarksize=\dimen262
+)
+\tikz@lastx=\dimen263
+\tikz@lasty=\dimen264
+\tikz@lastxsaved=\dimen265
+\tikz@lastysaved=\dimen266
+\tikz@lastmovetox=\dimen267
+\tikz@lastmovetoy=\dimen268
+\tikzleveldistance=\dimen269
+\tikzsiblingdistance=\dimen270
+\tikz@figbox=\box66
+\tikz@figbox@bg=\box67
+\tikz@tempbox=\box68
+\tikz@tempbox@bg=\box69
+\tikztreelevel=\count308
+\tikznumberofchildren=\count309
+\tikznumberofcurrentchild=\count310
+\tikz@fig@count=\count311
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count312
+\pgfmatrixcurrentcolumn=\count313
+\pgf@matrix@numberofcolumns=\count314
+)
+\tikz@expandcount=\count315
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowinset=\dimen271
+\pgfarrowlength=\dimen272
+\pgfarrowwidth=\dimen273
+\pgfarrowlinewidth=\dimen274
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfadings.code.tex
+File: pgflibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen275
+\lightrulewidth=\dimen276
+\cmidrulewidth=\dimen277
+\belowrulesep=\dimen278
+\belowbottomsep=\dimen279
+\aboverulesep=\dimen280
+\abovetopsep=\dimen281
+\cmidrulesep=\dimen282
+\cmidrulekern=\dimen283
+\defaultaddspace=\dimen284
+\@cmidla=\count316
+\@cmidlb=\count317
+\@aboverulesep=\dimen285
+\@belowrulesep=\dimen286
+\@thisruleclass=\count318
+\@lastruleclass=\count319
+\@thisrulewidth=\dimen287
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count320
+\LTcapwidth=\dimen288
+\LT@head=\box70
+\LT@firsthead=\box71
+\LT@foot=\box72
+\LT@lastfoot=\box73
+\LT@gbox=\box74
+\LT@cols=\count321
+\LT@rows=\count322
+\c@LT@tables=\count323
+\c@LT@chunks=\count324
+\LT@p@ftn=\toks40
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen289
+\TX@old@table=\dimen290
+\TX@old@col=\dimen291
+\TX@target=\dimen292
+\TX@delta=\dimen293
+\TX@cols=\count325
+\TX@ftn=\toks41
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip59
+\multirow@cntb=\count326
+\multirow@dima=\skip60
+\bigstrutjot=\dimen294
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks42
+\XKV@tempa@toks=\toks43
+)
+\XKV@depth=\count327
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box75
+)
+\tc@llx=\dimen295
+\tc@lly=\dimen296
+\tc@urx=\dimen297
+\tc@ury=\dimen298
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen299
+\adjbox@Height=\dimen300
+\adjbox@Depth=\dimen301
+\adjbox@Totalheight=\dimen302
+\adjbox@pwidth=\dimen303
+\adjbox@pheight=\dimen304
+\adjbox@pdepth=\dimen305
+\adjbox@ptotalheight=\dimen306
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count328
+) (C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box76
+\sift@deathcycles=\count329
+\@vwid@loff=\dimen307
+\@vwid@roff=\dimen308
+)
+==> First Aid for varwidth.sty applied!
+) (C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip61
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks44
+\ex@=\dimen309
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen310
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count330
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count331
+\leftroot@=\count332
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count333
+\DOTSCASE@=\count334
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box77
+\strutbox@=\box78
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen311
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count335
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count336
+\dotsspace@=\muskip17
+\c@parentequation=\count337
+\dspbrk@lvl=\count338
+\tag@help=\toks45
+\row@=\count339
+\column@=\count340
+\maxfields@=\count341
+\andhelp@=\toks46
+\eqnshift@=\dimen312
+\alignsep@=\dimen313
+\tagshift@=\dimen314
+\tagwidth@=\dimen315
+\totwidth@=\dimen316
+\lineht@=\dimen317
+\@envbody=\toks47
+\multlinegap=\skip62
+\multlinetaggap=\skip63
+\mathdisplay@stack=\toks48
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks49
+\thm@bodyfont=\toks50
+\thm@headfont=\toks51
+\thm@notefont=\toks52
+\thm@headpunct=\toks53
+\thm@preskip=\skip64
+\thm@postskip=\skip65
+\thm@headsep=\skip66
+\dth@everypar=\toks54
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2025/11/28 version 6.9.0 text color boxes
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks55
+\verbatim@line=\toks56
+\verbatim@in@stream=\read4
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box79
+\tcb@upperbox=\box80
+\tcb@lowerbox=\box81
+\tcb@phantombox=\box82
+\c@tcbbreakpart=\count342
+\c@tcblayer=\count343
+\c@tcolorbox@number=\count344
+\l__tcobox_tmpa_box=\box83
+\l__tcobox_tmpa_dim=\dimen318
+\tcb@temp=\box84
+\tcb@temp=\box85
+\tcb@temp=\box86
+\tcb@temp=\box87
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.cod
+e.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.9.0'
+\c@tcbrastercolumn=\count345
+\c@tcbrasterrow=\count346
+\c@tcbrasternum=\count347
+\c@tcbraster=\count348
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code
+.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.9.0'
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image
+.sty
+Package: tikzfill.image 2023/08/08 v1.0.1 Image filling library for TikZ
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill-commo
+n.sty
+Package: tikzfill-common 2023/08/08 v1.0.1 Auxiliary code for tikzfill
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfil
+l.image.code.tex
+File: tikzlibraryfill.image.code.tex 2023/08/08 v1.0.1 Image filling library
+\l__tikzfill_img_box=\box88
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsa
+w.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.9.0'
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.
+code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.9.0'
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/pdfcol\pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+))
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box89
+\tcb@totalupperbox=\box90
+\tcb@totallowerbox=\box91
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code
+.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.9.0'
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.c
+ode.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.9.0'
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.co
+de.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.9.0'
+\tcbfitdim=\dimen319
+\tcb@lowerfitdim=\dimen320
+\tcb@upperfitdim=\dimen321
+\tcb@cur@hbadness=\count349
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsut
+f8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.9.0'
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.c
+ode.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.9.0'
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count350
+\lst@gtempboxa=\box92
+\lst@token=\toks57
+\lst@length=\count351
+\lst@currlwidth=\dimen322
+\lst@column=\count352
+\lst@pos=\count353
+\lst@lostspace=\dimen323
+\lst@width=\dimen324
+\lst@newlines=\count354
+\lst@lineno=\count355
+\lst@maxwidth=\dimen325
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count356
+\lst@skipnumbers=\count357
+\lst@framebox=\box93
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsco
+re.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.9.0'
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing
+.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.9.0'
+)
+\c@tcblisting=\count358
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\listingsut
+f8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+))))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexternal.c
+ode.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.9.0'
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazine.c
+ode.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.9.0'
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignette.c
+ode.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.9.0'
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.cod
+e.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.9.0'
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip67
+\enit@outerparindent=\dimen326
+\enit@toks=\toks58
+\enit@inbox=\box94
+\enit@count@id=\count359
+\enitdp@description=\count360
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/lstaddons\lstautogobble
+.sty
+Package: lstautogobble 2012/05/03 v0.1 Implements 'autogobble' option for 'list
+ings'
+\lstag@spacecount=\count361
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip68
+\f@nch@offset@elh=\skip69
+\f@nch@offset@erh=\skip70
+\f@nch@offset@olh=\skip71
+\f@nch@offset@orh=\skip72
+\f@nch@offset@elf=\skip73
+\f@nch@offset@erf=\skip74
+\f@nch@offset@olf=\skip75
+\f@nch@offset@orf=\skip76
+\f@nch@height=\skip77
+\f@nch@footalignment=\skip78
+\f@nch@widthL=\skip79
+\f@nch@widthC=\skip80
+\f@nch@widthR=\skip81
+\@temptokenb=\toks59
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count362
+)
+\@linkdim=\dimen327
+\Hy@linkcounter=\count363
+\Hy@pagecounter=\count364
+ (C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count365
+ (C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4066.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4066.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4066
+.
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count366
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen328
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count367
+\Field@Width=\dimen329
+\Fld@charsize=\dimen330
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring ON on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count368
+\c@Item=\count369
+\c@Hfootnote=\count370
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count371
+\c@bookmark@seq@number=\count372
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip82
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count373
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count374
+\c@listtotal=\count375
+\c@listcount=\count376
+\c@liststart=\count377
+\c@liststop=\count378
+\c@citecount=\count379
+\c@citetotal=\count380
+\c@multicitecount=\count381
+\c@multicitetotal=\count382
+\c@instcount=\count383
+\c@maxnames=\count384
+\c@minnames=\count385
+\c@maxitems=\count386
+\c@minitems=\count387
+\c@citecounter=\count388
+\c@maxcitecounter=\count389
+\c@savedcitecounter=\count390
+\c@uniquelist=\count391
+\c@uniquename=\count392
+\c@refsection=\count393
+\c@refsegment=\count394
+\c@maxextratitle=\count395
+\c@maxextratitleyear=\count396
+\c@maxextraname=\count397
+\c@maxextradate=\count398
+\c@maxextraalpha=\count399
+\c@abbrvpenalty=\count400
+\c@highnamepenalty=\count401
+\c@lownamepenalty=\count402
+\c@maxparens=\count403
+\c@parenlevel=\count404
+\blx@tempcnta=\count405
+\blx@tempcntb=\count406
+\blx@tempcntc=\count407
+\c@blx@maxsection=\count408
+\blx@maxsegment@0=\count409
+\blx@notetype=\count410
+\blx@parenlevel@text=\count411
+\blx@parenlevel@foot=\count412
+\blx@sectionciteorder@0=\count413
+\blx@sectionciteorderinternal@0=\count414
+\blx@entrysetcounter=\count415
+\blx@biblioinstance=\count416
+\labelnumberwidth=\skip83
+\labelalphawidth=\skip84
+\biblabelsep=\skip85
+\bibitemsep=\skip86
+\bibnamesep=\skip87
+\bibinitsep=\skip88
+\bibparsep=\skip89
+\bibhang=\skip90
+\blx@bcfin=\read5
+\blx@bcfout=\write4
+\blx@langwohyphens=\language80
+\c@mincomprange=\count417
+\c@maxcomprange=\count418
+\c@mincompwidth=\count419
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count420
+\c@savedafterword=\count421
+\c@annotator=\count422
+\c@savedannotator=\count423
+\c@author=\count424
+\c@savedauthor=\count425
+\c@bookauthor=\count426
+\c@savedbookauthor=\count427
+\c@commentator=\count428
+\c@savedcommentator=\count429
+\c@editor=\count430
+\c@savededitor=\count431
+\c@editora=\count432
+\c@savededitora=\count433
+\c@editorb=\count434
+\c@savededitorb=\count435
+\c@editorc=\count436
+\c@savededitorc=\count437
+\c@foreword=\count438
+\c@savedforeword=\count439
+\c@holder=\count440
+\c@savedholder=\count441
+\c@introduction=\count442
+\c@savedintroduction=\count443
+\c@namea=\count444
+\c@savednamea=\count445
+\c@nameb=\count446
+\c@savednameb=\count447
+\c@namec=\count448
+\c@savednamec=\count449
+\c@translator=\count450
+\c@savedtranslator=\count451
+\c@shortauthor=\count452
+\c@savedshortauthor=\count453
+\c@shorteditor=\count454
+\c@savedshorteditor=\count455
+\c@labelname=\count456
+\c@savedlabelname=\count457
+\c@institution=\count458
+\c@savedinstitution=\count459
+\c@lista=\count460
+\c@savedlista=\count461
+\c@listb=\count462
+\c@savedlistb=\count463
+\c@listc=\count464
+\c@savedlistc=\count465
+\c@listd=\count466
+\c@savedlistd=\count467
+\c@liste=\count468
+\c@savedliste=\count469
+\c@listf=\count470
+\c@savedlistf=\count471
+\c@location=\count472
+\c@savedlocation=\count473
+\c@organization=\count474
+\c@savedorganization=\count475
+\c@origlocation=\count476
+\c@savedoriglocation=\count477
+\c@origpublisher=\count478
+\c@savedorigpublisher=\count479
+\c@publisher=\count480
+\c@savedpublisher=\count481
+\c@language=\count482
+\c@savedlanguage=\count483
+\c@origlanguage=\count484
+\c@savedoriglanguage=\count485
+\c@pageref=\count486
+\c@savedpageref=\count487
+\shorthandwidth=\skip91
+\shortjournalwidth=\skip92
+\shortserieswidth=\skip93
+\shorttitlewidth=\skip94
+\shortauthorwidth=\skip95
+\shorteditorwidth=\skip96
+\locallabelnumberwidth=\skip97
+\locallabelalphawidth=\skip98
+\localshorthandwidth=\skip99
+\localshortjournalwidth=\skip100
+\localshortserieswidth=\skip101
+\localshorttitlewidth=\skip102
+\localshortauthorwidth=\skip103
+\localshorteditorwidth=\skip104
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+\c@textcitecount=\count488
+\c@textcitetotal=\count489
+\c@textcitemaxnames=\count490
+\c@biburlbigbreakpenalty=\count491
+\c@biburlbreakpenalty=\count492
+\c@biburlnumpenalty=\count493
+\c@biburlucpenalty=\count494
+\c@biburllcpenalty=\count495
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count496
+)
+Package biblatex Info: Trying to load bibliography style 'ieee'...
+Package biblatex Info: ... file 'ieee.bbx' found.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.bbx
+File: ieee.bbx 2025-08-01 v1.4f biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-co
+mp.bbx
+File: numeric-comp.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bb
+x
+File: numeric.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
+File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count497
+\c@bbx:relatedtotal=\count498
+))))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-ieee\ieee.cbx
+File: ieee.cbx 2025-08-01 v1.4f biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-verb'...
+Package biblatex Info: ... file 'numeric-verb.cbx' found.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-ve
+rb.cbx
+File: numeric-verb.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\textcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-12-24 L3 programming layer (loader) 
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count499
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2025-12-24 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+)
+\@indexfile=\write5
+\openout5 = `Cours.idx'.
+
+
+Writing index file Cours.idx
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
+ies.sty
+Package: glossaries 2026/03/06 v5.0 (NLCT)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2025/04/03 v2.09 (NLCT)
+\@glsmfirst=\toks60
+\@glsmrest=\toks61
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+Package: tracklang 2025/03/11 v1.6.6 (NLCT) Track Languages
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.t
+ex)
+Package tracklang Info: Tracking dialect `french' (language `french') on input 
+line 264.
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
+ty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-french\gloss
+aries-french.ldf
+File: glossaries-french.ldf 2016/12/12 v1.1
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
+sty
+Package: datatool-base 2025/12/04 v3.4.3 (NLCT)
+\l__datatool_tmpa_int=\count500
+\l__datatool_tmpb_int=\count501
+\l__datatool_tmpc_int=\count502
+\l__datatool_tmpd_int=\count503
+\l__datatool_count_int=\count504
+\l__datatool_tmp_datatype_int=\count505
+\l__datatool_tmpa_dim=\dimen331
+\l__datatool_tmpb_dim=\dimen332
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.
+def
+File: datatool-l3fp.def 2025/12/04 v3.4.3 (NLCT)
+)
+\@dtl@toks=\toks62
+\@dtl@tmpcount=\count506
+\dtl@tmplength=\skip105
+\l__datatool_measure_box=\box95
+\dtl@sortresult=\count507
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.
+ldf
+File: datatool-utf8.ldf 2025/12/04 v3.4.3 (NLCT)
+)
+\@dtl@datatype=\count508
+\c_datatool_unknown_int=\count509
+\l__datatool_year_int=\count510
+\l__datatool_month_int=\count511
+\l__datatool_day_int=\count512
+\l__datatool_hour_int=\count513
+\l__datatool_minute_int=\count514
+\l__datatool_second_int=\count515
+\l__datatool_tzhour_int=\count516
+\l__datatool_tzminute_int=\count517
+\l__datatool_julian_int=\count518
+\l__datatool_local_julian_int=\count519
+\l__datatool_prefix_int=\count520
+\l__datatool_suffix_int=\count521
+\@dtl@foreach@level=\count522
+
+
+Package tracklang Warning: No `datatool' support for dialect `french'  on input
+ line 9924.
+
+\dtl@codeA=\count523
+\dtl@codeB=\count524
+)
+\gls@level=\count525
+\@gls@tmpb=\toks63
+\gls@tmplen=\skip106
+\l__glossaries_tmpa_dim=\dimen333
+\l__glossaries_tmpb_dim=\dimen334
+\glskeylisttok=\toks64
+\glslabeltok=\toks65
+\glsshorttok=\toks66
+\glslongtok=\toks67
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-hypernav.sty
+Package: glossary-hypernav 2026/03/06 v5.0 (NLCT)
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-list.sty
+Package: glossary-list 2026/03/06 v5.0 (NLCT)
+\glslistdottedwidth=\skip107
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-long.sty
+Package: glossary-long 2026/03/06 v5.0 (NLCT)
+\glsdescwidth=\skip108
+\glspagelistwidth=\skip109
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-super.sty
+Package: glossary-super 2026/03/06 v5.0 (NLCT)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
+ar.sty
+Package: supertabular 2025/06/26 v4.2d the supertabular environment
+\c@tracingst=\count526
+\ST@wd=\dimen335
+\ST@rightskip=\skip110
+\ST@leftskip=\skip111
+\ST@parfillskip=\skip112
+\ST@pageleft=\dimen336
+\ST@headht=\dimen337
+\ST@tailht=\dimen338
+\ST@pagesofar=\dimen339
+\ST@pboxht=\dimen340
+\ST@rowht=\dimen341
+\ST@prevht=\dimen342
+\ST@toadd=\dimen343
+\ST@dimen=\dimen344
+\ST@pbox=\box96
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-tree.sty
+Package: glossary-tree 2026/03/06 v5.0 (NLCT)
+\l__glossaries_tree_max_known_level_int=\count527
+\l__glossaries_tree_offset_dim=\dimen345
+\l__glossaries_tree_namewidth_dim=\dimen346
+\l__glossaries_tree_symbolwidth_dim=\dimen347
+\l__glossaries_tree_prenamesym_width_dim=\dimen348
+\l__glossaries_tree_presubnamesym_width_dim=\dimen349
+\l__glossaries_tree_namewidth_padding_dim=\dimen350
+\l__glossaries_tree_symbolwidth_padding_dim=\dimen351
+\l__glossaries_tree_namesymbolwidth_dim=\dimen352
+\l__glossaries_tree_namesymbolwidth_padding_dim=\dimen353
+\l__glossaries_tree_level_int=\count528
+\glstreeindent=\skip113
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/epigraph\epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/nextpage\nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip114
+\afterepigraphskip=\skip115
+\epigraphwidth=\skip116
+\epigraphrule=\skip117
+) (C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/marvosym\marvosym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
+Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
+\AP@output=\toks68
+\AP@partial=\box97
+\AP@footins=\box98
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count529
+\csq@gtype=\count530
+\csq@glevel=\count531
+\csq@qlevel=\count532
+\csq@maxlvl=\count533
+\csq@tshold=\count534
+\csq@ltx@everypar=\toks69
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+)) (C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/doi\doi.sty
+Package: doi 2018/09/09 handle doi numbers
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box99
+\beforetitleunit=\skip118
+\aftertitleunit=\skip119
+\ttl@plus=\dimen354
+\ttl@minus=\dimen355
+\ttl@toksa=\toks70
+\titlewidth=\dimen356
+\titlewidthlast=\dimen357
+\titlewidthfirst=\dimen358
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
+Package: titletoc 2025/01/04 v2.17 TOC entries
+\ttl@leftsep=\dimen359
+)
+\c@theoreme=\count535
+\c@definition=\count536
+\c@proposition=\count537
+\c@corollaire=\count538
+\c@lemme=\count539
+\c@remarque=\count540
+\c@exemple=\count541
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'french'.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 39
+.
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (Cours.aux)
+\openout1 = `Cours.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+Package microtype Info: Patching varwidth to enable character protrusion.
+\MT@vwid@leftmargin=\dimen360
+\MT@vwid@rightmargin=\dimen361
+LaTeX Info: Redefining \microtypecontext on input line 39.
+Package microtype Info: Applying patch `item' on input line 39.
+Package microtype Info: Applying patch `toc' on input line 39.
+Package microtype Info: Applying patch `eqnum' on input line 39.
+
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 39.
+
+Package microtype Info: Applying patch `verbatim' on input line 39.
+LaTeX Info: Redefining \microtypesetup on input line 39.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No font expansion.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(79.6678pt, 446.70819pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=446.70819pt
+* \textheight=702.78308pt
+* \oddsidemargin=7.39781pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-49.2119pt
+* \headheight=28.2pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count542
+\scratchdimen=\dimen362
+\scratchbox=\box100
+\nofMPsegments=\count543
+\nofMParguments=\count544
+\everyMPshowfont=\toks71
+\MPscratchCnt=\count545
+\MPscratchDim=\dimen363
+\MPnumerator=\count546
+\makeMPintoPDFobject=\count547
+\everyMPtoPDFconversion=\toks72
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count548
+Package hyperref Info: Link coloring ON on input line 39.
+ (Cours.out) (Cours.out)
+\@outlinefile=\write6
+\openout6 = `Cours.out'.
+
+Package biblatex Info: Trying to load language 'french'...
+Package biblatex Info: ... file 'french.lbx' found.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\french.lbx
+File: french.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `Cours.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Cours.bbl' found.
+ (Cours.bbl)
+Package biblatex Info: Reference section=0 on input line 39.
+Package biblatex Info: Reference segment=0 on input line 39.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
+5.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+ [1
+
+
+{C:/Users/maddi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/madd
+i/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/maddi/Ap
+pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+56.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+56.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+156.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+156.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 156.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 156.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 156.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 156
+.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 156
+.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+[2
+
+] [3
+
+] [4
+
+
+] [5] [6
+
+
+] (Cours.toc [7] [8] [9] [10] [11] [12] [13] [14])
+\tf@toc=\write7
+\openout7 = `Cours.toc'.
+
+ [15]
+[16
+
+
+] (Cours.lof)
+\tf@lof=\write8
+\openout8 = `Cours.lof'.
+
+ [17] [18
+
+] (Cours.lot)
+\tf@lot=\write9
+\openout9 = `Cours.lot'.
+
+ [19{C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}
+] [20
+
+] (Cours.lol)
+\tf@lol=\write10
+\openout10 = `Cours.lol'.
+
+ [21] [22
+
+]
+(chapitres/0_Introduction.tex
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.38 
+      [1
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.66 L
+      e chapitre~\ref{chap:01_cas_lizbiz} installe le cas fil rouge LiZbiZ, ...
+[2]
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.92 
+      [3]
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.117 
+       [4{C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ma
+thsy.enc}{C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ma
+thit.enc}])
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.230 \part
+           {Fondements Théoriques et Méthodologiques} [5]
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.230 \part
+           {Fondements Théoriques et Méthodologiques} [6
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.230 ...ndements Théoriques et Méthodologiques}
+                                                   [7]
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.230 ...ndements Théoriques et Méthodologiques}
+                                                   [8]
+(chapitres/01_cas_lizbiz.tex
+\bbl@ensure@french {Chapitre} 1.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.42 \subsection{L'Application "APPLICATION"}
+                                              [9
+
+]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.104 ...Environnement de Laboratoire (Immersion)}
+                                                   [10])
+(chapitres/02_fondamentaux.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9 \chapter
+            {Définitions, Concepts et Bases de l'Audit et du Contrôle}%
+[11]
+pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9 \chapter
+            {Définitions, Concepts et Bases de l'Audit et du Contrôle}%
+[12
+
+]
+\bbl@ensure@french {Chapitre} 2.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.57 \end{boxdef}
+                  [13]
+
+LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
+(Font)              using `T1/lmr/bx/n' instead on input line 101.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.14}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.111   \item \textbf
+                     {L'acceptation :} consiste à ne rien faire bien qu'ét...
+[14]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 143.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.15}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.216 
+       [15]
+pdfTeX warning (ext4): destination with the same identifier (name{page.16}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.216 
+       [16]
+pdfTeX warning (ext4): destination with the same identifier (name{page.17}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.260   \item l
+               a ou les questions d'évaluation ; [17]
+pdfTeX warning (ext4): destination with the same identifier (name{page.18}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.314 
+       [18]
+pdfTeX warning (ext4): destination with the same identifier (name{page.19}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.376 
+       [19]
+pdfTeX warning (ext4): destination with the same identifier (name{page.20}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.420 \end{boxdef}
+                   [20]
+pdfTeX warning (ext4): destination with the same identifier (name{page.21}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.464 \end{boxlizbiz}
+                      [21]
+pdfTeX warning (ext4): destination with the same identifier (name{page.22}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.518 
+       [22] [23] [24] [25] [26]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 7
+59.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [27]
+[28] [29] [30]) (chapitres/03_demarche.tex [31] [32
+
+]
+\bbl@ensure@french {Chapitre} 3.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[33] [34] [35] [36]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[37]) [38] [39
+
+] [40] (chapitres/04_referentiels.tex
+\bbl@ensure@french {Chapitre} 4.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[41
+
+]
+Overfull \hbox (82.54117pt too wide) in paragraph at lines 79--94
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[42] [43]
+Overfull \hbox (81.66832pt too wide) in paragraph at lines 166--173
+ [][] 
+ []
+
+) (chapitres/05_types_audits.tex [44]
+\bbl@ensure@french {Chapitre} 5.
+[45
+
+] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]) [59]
+[60
+
+] [61] [62] (chapitres/05_theorie_information_shannon.tex
+\bbl@ensure@french {Chapitre} 6.
+
+LaTeX Warning: Citation 'Shannon1948' on page 63 undefined on input line 27.
+
+[63
+
+]
+
+LaTeX Warning: Citation 'Shannon1948' on page 64 undefined on input line 75.
+
+
+LaTeX Warning: Citation 'Cover2006' on page 64 undefined on input line 75.
+
+[64]
+
+LaTeX Warning: Citation 'Shannon1948' on page 65 undefined on input line 141.
+
+
+LaTeX Warning: Citation 'MacKay2003' on page 65 undefined on input line 141.
+
+
+LaTeX Warning: Citation 'Cover2006' on page 65 undefined on input line 146.
+
+[65{C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.e
+nc}] [66] [67]
+
+LaTeX Warning: Citation 'Kullback1951' on page 68 undefined on input line 289.
+
+
+LaTeX Warning: Citation 'Kullback1951' on page 68 undefined on input line 353.
+
+[68]
+
+LaTeX Warning: Citation 'Cover2006' on page 69 undefined on input line 364.
+
+
+LaTeX Warning: Citation 'Lin1991' on page 69 undefined on input line 380.
+
+
+LaTeX Warning: Citation 'Huffman1952' on page 69 undefined on input line 397.
+
+[69] [70] [71]
+Overfull \hbox (79.99551pt too wide) in paragraph at lines 570--582
+ [][] 
+ []
+
+
+LaTeX Warning: Citation 'Paninski2003' on page 72 undefined on input line 589.
+
+[72]
+
+LaTeX Warning: Citation 'Renyi1961' on page 73 undefined on input line 638.
+
+[73] [74] [75] [76]) (chapitres/06_outil_aide_audit.tex [77] [78
+
+]
+\bbl@ensure@french {Chapitre} 7.
+[79] [80] [81] [82] [83] [84] [85] [86] [87] [88]
+LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 
+566.
+
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmtt.fd
+File: ts1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `texttrademark ' is missing
+(microtype)             in font `TS1/lmtt/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+ [89]
+[90]
+Overfull \vbox (249.78856pt too high) has occurred while \output is active []
+
+
+[91] [92]
+Overfull \hbox (15.69675pt too wide) in paragraph at lines 760--760
+[]|\T1/lmr/bx/sc/12 R�ponse| 
+ []
+
+[93] [94]) (chapitres/06b_decomposition_types_audit.tex [95] [96
+
+]
+\bbl@ensure@french {Chapitre} 8.
+
+Overfull \hbox (35.39581pt too wide) detected at line 25
+[]  [][]\OMS/lmsy/m/n/12 !  []  [][]!  []  [][]!  []  [][]!  []  [][]!  []
+ []
+
+[97] [98] [99]
+ignored error: Infinite glue shrinkage found in box being split [100] [101]
+[102]
+Overfull \hbox (19.9462pt too wide) in paragraph at lines 278--278
+\T1/lmr/m/n/12 �tudes/exploitation
+ []
+
+
+Overfull \hbox (28.90067pt too wide) in paragraph at lines 279--279
+\T1/lmr/m/n/12 �tudes/exploitation.| 
+ []
+
+ignored error: Infinite glue shrinkage found in box being split [103] [104]
+[105] [106]
+ignored error: Infinite glue shrinkage found in box being split [107] [108]
+[109] [110] [111] [112] [113]
+ignored error: Infinite glue shrinkage found in box being split [114] [115]
+[116]
+ignored error: Infinite glue shrinkage found in box being split [117] [118]
+[119]) [120] [121
+
+] [122] (chapitres/07_sujets_connexes.tex
+\bbl@ensure@french {Chapitre} 9.
+[123
+
+] [124] [125]) (chapitres/08_evaluation_finale.tex [126]
+\bbl@ensure@french {Chapitre} 10.
+[127
+
+] [128] [129] [130] [131] [132]) [133] [134
+
+] [135] [136]
+(chapitres/lab1_application.tex
+\bbl@ensure@french {Chapitre} 11.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 28.
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 31.
+[137
+
+] [138] [139]
+Overfull \hbox (10.70093pt too wide) in paragraph at lines 185--185
+[]|\T1/lmr/bx/n/10.95 Recommandation| 
+ []
+
+) (chapitres/lab2_infrastructure.tex [140]
+\bbl@ensure@french {Chapitre} 12.
+[141
+
+]
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+(C:\Users\maddi\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+[142]) (chapitres/00_Conclusion.tex [143] [144
+
+] [145] [146]) [147] [148
+
+]
+
+LaTeX Warning: Empty bibliography on input line 294.
+
+No file Cours.ind.
+[149
+
+
+
+
+] (Cours.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `Cours.out' has not changed.
+(rerunfilecheck)             Checksum: F630C0EE3C6D0054B047706C9E097D22;91287.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Cours
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'Cours.run.xml'.
+\openout1 = `Cours.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 52793 strings out of 467871
+ 1071398 string characters out of 5418376
+ 2293867 words of memory out of 5000000
+ 79819 multiletter control sequences out of 15000+600000
+ 751820 words of font info for 115 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 101i,22n,116p,2476b,2686s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/lat
+xfont/lcircle1.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/lm/lmbx10.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/lm/lmbx12.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/lm/lmcsc10.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/lm/lmex10.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/lm/lmmi10.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/lm/lmmi12.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/lm/lmmi8.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/lm/lmmib10.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/lm/lmr10.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/lm/lmr12.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/lm/lmr6.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/lm/lmr8.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+lm/lmri10.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+lm/lmri12.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+lm/lmri8.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
+m/lmsy10.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
+m/lmsy8.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
+/lmtk10.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
+/lmtt10.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
+/lmtt12.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
+/lmtt8.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
+lmtti10.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/symbols/msam10.pfb><C:/Users/maddi/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/symbols/msbm10.pfb><C:/Users/maddi/AppData/Local/Programs/
+MiKTeX/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on Cours.pdf (171 pages, 1393059 bytes).
+PDF statistics:
+ 3598 PDF objects out of 4296 (max. 8388607)
+ 985 named destinations out of 1000 (max. 500000)
+ 26869 words of extra memory for PDF output out of 29859 (max. 10000000)
+
